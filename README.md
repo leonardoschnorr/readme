@@ -1,1 +1,1 @@
-# readme
+print("Olá, mundo!")
